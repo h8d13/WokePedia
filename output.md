@@ -1,5 +1,5 @@
 # Example Output : Julius Caesar
-
+``` 
 ## 1ST EXAMPLE_OUTPUT
 """
  **Julius Caesar**
@@ -69,9 +69,12 @@ After Caesar's death, his adopted son, Octavius (later known as Augustus), rose 
 "eval_duration": 7351000000
 
     """
+```
 
 ## Using a liitle bit of system prompt tweaking: Looks much better. 
 ## "prompt": f"Make a historical summary of, do not repeat yourself and ignore information that is not relevant to the main subject: {content}",
+
+``` 
 
 """
  **Title:** Guide to the Life and Times of Julius Caesar
@@ -167,3 +170,4 @@ Caesar's military conquests, political maneuverings, and writings have had a las
 2. Caesar: A Biography, by Adrian Goldsworthy, Yale University Press, 2006
 3. The Conquests of Gaul and Civil War, by Julius Caesar, Penguin Classics, 2003
 """
+``` 
